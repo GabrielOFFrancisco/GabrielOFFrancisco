@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou aluno do curso de Análise e Desenvolvimento de Sistemas na Fatec Guarulhos, especializado em desenvolvimento full stack, com ênfase em aplicações web. Sou uma pessoa proativa, sempre buscando me desenvolver na área profissional aprendendo novas tecnologias e tenho extrema facilidade em trabalhar em equipe.</p>
+<p align="left">Tecnólogo formado no curso de Análise e Desenvolvimento de Sistemas pela Fatec, especializado em desenvolvimento full stack, com ênfase em aplicações web. Sou uma pessoa proativa, sempre buscando me desenvolver na área profissional aprendendo novas tecnologias e tenho extrema facilidade em trabalhar em equipe.</p>
 
 ###
 
@@ -44,6 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" height="40" alt="delphi logo"  />
 </div>
 
 ###
